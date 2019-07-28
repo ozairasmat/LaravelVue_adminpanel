@@ -8,8 +8,7 @@ Basic Admin For Laravel with VueJs.
 
 ## Version
 
-Laravel 
-
+Laravel Framework 5.7.6
 
 This is a Multi-Purpose Laravel + Vue Application. 
 
