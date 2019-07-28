@@ -23,6 +23,9 @@ It's just like any other Laravel project. Basically here is how you use it for y
 * Run ` php artisan key:generate` to generate the app key
 * Run ` npm install ` 
 * Run ` php artisan migrate ` 
+* Registration (register a user with name admin)
+* In database user table you should change userType from 'user' to 'admin' 
+* Install Passport `php artisan passport:install`
 * Done !!! Enjoy Customizing and building awesome app 
 
 
