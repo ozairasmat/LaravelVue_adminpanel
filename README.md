@@ -31,7 +31,7 @@ It's just like any other Laravel project. Basically here is how you use it for y
 
 ## Reference 
 
-This repo is copied from `https://github.com/Hujjat`
+This repo is downloaded from `https://github.com/Hujjat`
 You can watch complete series from `https://www.youtube.com/playlist?list=PLB4AdipoHpxaHDLIaMdtro1eXnQtl_UvE`
 
 
